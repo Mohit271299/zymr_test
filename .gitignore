@@ -50,3 +50,4 @@ app.*.map.json
 /lib/src/features/weather/domain/weather/weather.g.dart
 /lib/src/features/weather/domain/forecast/forecast.freezed.dart
 /lib/src/features/weather/domain/forecast/forecast.g.dart
+/windows/
